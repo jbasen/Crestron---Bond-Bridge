@@ -1,5 +1,7 @@
 # Crestron---Bond-Bridge
 
+v5 - Added support for groups
+
 v4 - Bug fixes and the addition of StartDecreasingBrightness and
      StartIncreasingBrightness commands
 
