@@ -1,5 +1,8 @@
 # Crestron---Bond-Bridge
 
+v6 - Add support for multiple Bond Bridge devices or multiple
+     Smart by Bond Devices
+     
 v5 - Added support for groups
 
 v4 - Bug fixes and the addition of StartDecreasingBrightness and
