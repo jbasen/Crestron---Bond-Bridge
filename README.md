@@ -1,5 +1,9 @@
 # Crestron---Bond-Bridge
 
+v7 - Add support for adding custom commands that are reported
+     by a device but aren't supported directly by the device
+     module.
+     
 v6 - Add support for multiple Bond Bridge devices or multiple
      Smart by Bond Devices
      
